@@ -1,6 +1,7 @@
-# 🚀 Projeto: GitOps na Prática com Kubernetes e ArgoCD
 <img width="800" height="200" alt="Image" src="https://github.com/user-attachments/assets/bc251934-6e76-47f8-99ef-af6788691611" />
 <div align="center">
+  
+# 🚀 Projeto: GitOps na Prática com Kubernetes e ArgoCD
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
